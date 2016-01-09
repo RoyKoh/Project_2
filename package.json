@@ -11,8 +11,7 @@
     "debug": "~2.2.0",
     "express": "^4.13.3",
     "jade": "~1.11.0",
-    "mongodb": "^2.0.55",
-    "mongoskin": "^2.0.3",
+    "mongoskin": "^1.4.13",
     "monk": "~1.0.0",
     "morgan": "~1.6.1",
     "serve-favicon": "~2.3.0"
